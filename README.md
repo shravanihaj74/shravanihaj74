@@ -20,13 +20,13 @@
 <a href="mailto:shravanihajare07@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/shravanihajare07">
+<a href="https://github.com/shravanihaj74">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shravanihajare07&label=Profile+Views&color=4a90d9&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=shravanihaj74&label=Profile+Views&color=4a90d9&style=flat-square" />
 
 </div>
 </div>
@@ -41,7 +41,7 @@
 
 ```yaml
 Name     : Shravani Umesh Hajare
-Location : Mumbai, Maharashtra, India
+Location : Navi Mumbai, Maharashtra, India
 Study    : MCA @ Bharati Vidyapeeth (2025–2027)
 Prev     : BSc CS @ S.I.E.S College — CGPA 8.72
 Focus    : AI/ML · Computer Vision · Full-Stack Dev
@@ -64,7 +64,7 @@ Status   : Open to Internships & Hackathons ✅
 class ShravaniHajare:
     def __init__(self):
         self.name       = "Shravani Umesh Hajare"
-        self.location   = "Mumbai, India 🇮🇳"
+        self.location   = "Navi Mumbai, India 🇮🇳"
         self.degree     = "MCA @ Bharati Vidyapeeth (2025–2027)"
         self.prev       = "BSc CS @ S.I.E.S College — CGPA 8.72"
         self.roles      = ["AI/ML Developer", "Computer Vision Engineer", "Full-Stack Developer"]
@@ -127,12 +127,12 @@ print(me.get_quote())
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanihajare07&theme=tokyonight&hide_border=true&background=0d0b14&stroke=4a90d9&ring=4a90d9&fire=ff6b6b&currStreakLabel=4a90d9&border_radius=10" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanihaj74&theme=tokyonight&hide_border=true&background=0d0b14&stroke=4a90d9&ring=4a90d9&fire=ff6b6b&currStreakLabel=4a90d9&border_radius=10" width="60%"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanihajare07&bg_color=0d0b14&color=4a90d9&line=1a6aad&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanihaj74&bg_color=0d0b14&color=4a90d9&line=1a6aad&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
