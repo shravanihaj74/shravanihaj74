@@ -177,15 +177,20 @@ MediaPipe tracking · TensorFlow classifier · PyAutoGUI execution.
   <div>
 <td width="50%" valign="top" align="center">
 
+<td colspan="2" align="center">
 
-**🏆 Hackathons**
+<div align="center">
 
-```
-✅ UAI Hackathon — AI/ML Solutions
-✅ Innov8 Hackathon — Pixels 2026
-   Full-stack · AI · Team Collaboration
+  **🏆 Hackathons **
+
+```yaml
+✅ UAI Hackathon      : AI/ML Solutions
+✅ Innov8 Hackathon   : Pixels 2026
+Full-stack · AI · Team Collaboration
    Rapid prototyping under pressure
+
 ```
+
 
 Always looking for the next challenge — reach out to team up!
 
