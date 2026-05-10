@@ -176,19 +176,6 @@ MediaPipe tracking · TensorFlow classifier · PyAutoGUI execution.
 <tr>
 <td width="50%" valign="top" align="center">
 
-**🏠 HostelHub — Hostel Management System**
-
-Web app to digitize hostel operations — student records, room allocation, and visitor management.
-Flask REST backend · Responsive JS frontend · JSON storage.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![View Repo](https://img.shields.io/badge/View_Repository-%230d0b14?style=for-the-badge&logo=github&logoColor=white&labelColor=1a6aad)](https://github.com/shravanihajare07/hostelhub)
-
-</td>
-<td width="50%" valign="top" align="center">
 
 **🏆 Hackathons**
 
