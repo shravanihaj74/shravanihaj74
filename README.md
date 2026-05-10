@@ -4,11 +4,11 @@
 
 ![header](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=52&duration=3000&pause=99999&color=E8E4F0&background=0D0B1400&center=true&vCenter=true&width=700&height=100&lines=Shravani+Hajare)
 
-![subheader](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=20&duration=3000&pause=99999&color=E8E4F0&background=0D0B1400&center=true&vCenter=true&width=600&height=25&lines=AI+%2F+ML+Engineer+|+Full-Stack+Developer+|+Computer+Vision)
+![subheader](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=20&duration=3000&pause=99999&color=E8E4F0&background=0D0B1400&center=true&vCenter=true&width=600&height=25&lines=Python+Developer+%7C+Backend+Developer+%7C+Database+Enthusiast)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DB9E8&center=true&vCenter=true&width=620&lines=Python+Developer+%F0%9F%90%8D;Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;MCA+Student+%40+Bharati+Vidyapeeth+%F0%9F%8E%93;Building+AI+that+works+in+the+real+world+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DB9E8&center=true&vCenter=true&width=620&lines=Python+Developer+%F0%9F%90%8D;Java+Programmer+%E2%9A%99%EF%B8%8F;Database+Engineer+%F0%9F%97%84%EF%B8%8F;MCA+Student+%40+Bharati+Vidyapeeth+%F0%9F%8E%93;Building+AI+that+works+in+the+real+world+%E2%9C%A8)
 
 <br/>
 
