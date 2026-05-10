@@ -180,14 +180,18 @@ MediaPipe tracking · TensorFlow classifier · PyAutoGUI execution.
 
 <h2>🏆 Hackathons</h2>
 
+<table>
+<tr>
+<td align="center" width="500">
+
+<div style="border:1px solid #30363d; border-radius:12px; padding:25px; background-color:#0d1117;">
+
 ```yaml
 ✅ UAI Hackathon    : AI/ML Solutions
 ✅ Innov8 Hackathon : Pixels 2026
-
-Focus:
-  - Full-stack Development
-  - AI & Team Collaboration
-  - Rapid Prototyping
+Full-stack Development
+AI & Team Collaboration
+Rapid Prototyping
 ```
 
 Always looking for the next challenge — reach out to team up!
@@ -195,6 +199,12 @@ Always looking for the next challenge — reach out to team up!
 <br><br>
 
 [![Collab](https://img.shields.io/badge/LET'S_COLLABORATE-1a6aad?style=for-the-badge&logo=github&logoColor=white)](mailto:shravanihajare07@gmail.com)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
