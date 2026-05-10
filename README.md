@@ -174,9 +174,10 @@ MediaPipe tracking · TensorFlow classifier · PyAutoGUI execution.
 </td>
 </tr>
 <tr>
+  <div>
 <td width="50%" valign="top" align="center">
 
-<div>
+
 **🏆 Hackathons**
 
 ```
@@ -193,7 +194,7 @@ Always looking for the next challenge — reach out to team up!
 </td>
 </tr>
 </table>
-</div>
+
 </div>
 
 ---
