@@ -178,13 +178,13 @@ MediaPipe tracking · TensorFlow classifier · PyAutoGUI execution.
 
 <div align="center">
 
+<div style="border:1px solid #30363d; border-radius:12px; padding:25px; background-color:#0d1117;">
+
 <h2>🏆 Hackathons</h2>
 
 <table>
 <tr>
 <td align="center" width="500">
-
-<div style="border:1px solid #30363d; border-radius:12px; padding:25px; background-color:#0d1117;">
 
 ```yaml
 ✅ UAI Hackathon    : AI/ML Solutions
